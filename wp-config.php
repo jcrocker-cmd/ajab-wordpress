@@ -31,7 +31,7 @@ define( 'DB_USER', 'u987956616_7RnvD' );
 define( 'DB_PASSWORD', 'PtWQTDFXL4' );
 
 /** Database hostname */
-define( 'DB_HOST', '127.0.0.1' );
+define( 'DB_HOST', 'wordpress-db:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
